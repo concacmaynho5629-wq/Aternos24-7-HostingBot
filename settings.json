@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "bakhisieucap.aternos.me:25489",
+    "port": 25489,
     "version": "",
     "try-creative": false
   },
